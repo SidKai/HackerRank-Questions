@@ -1,5 +1,6 @@
 # HackerRank-Questions
-Here is the list of problems
+Here is the list of problems:
+
 https://www.hackerrank.com/challenges/finding-the-percentage/problem
 
 https://www.hackerrank.com/challenges/python-string-split-and-join/problem
